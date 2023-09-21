@@ -13,6 +13,9 @@
 <h3> Oracle Cloud Data Management 2022: https://catalog-education.oracle.com/pls/certview/sharebadge?id=93BDF838814108F508054A3B00BDF9D242B595FBD5565F9CC9DDF600A4A1C560  </h3>
 <h3> Oracle Cloud Infrastructure 2022: https://catalog-education.oracle.com/pls/certview/sharebadge?id=43B5894029C1D36C6A482F1B979276411B45768A2D5B8869CFB681B8DFB3CD72 </h3>
 
+<h3> Simplilearn.com: </h3>
+<h3> Business Analytics with Excel: https://simpli-web.app.link/e/pqIEIvlOgDb </h3>
+
 ## Connect with me:
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100077425734145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077425734145" height="30" width="40" /></a>
