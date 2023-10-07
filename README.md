@@ -17,7 +17,7 @@
 <h3> Business Analytics with Excel: https://simpli-web.app.link/e/pqIEIvlOgDb </h3>
 
 <h3> Skillsforall.com: </h3>
-<h3> Data Analytics Essentials: [https://simpli-web.app.link/e/pqIEIvlOgDb](https://www.credly.com/badges/1859b313-8846-4797-ac91-09295c760774/public_url) </h3>
+<h3> Data Analytics Essentials: https://www.credly.com/badges/1859b313-8846-4797-ac91-09295c760774/public_url </h3>
 
 ## Connect with me:
 <p align="left">
