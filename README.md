@@ -16,6 +16,9 @@
 <h3> Simplilearn.com: </h3>
 <h3> Business Analytics with Excel: https://simpli-web.app.link/e/pqIEIvlOgDb </h3>
 
+<h3> Skillsforall.com: </h3>
+<h3> Data Analytics Essentials: [https://simpli-web.app.link/e/pqIEIvlOgDb](https://www.credly.com/badges/1859b313-8846-4797-ac91-09295c760774/public_url) </h3>
+
 ## Connect with me:
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100077425734145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077425734145" height="30" width="40" /></a>
