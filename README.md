@@ -18,6 +18,7 @@
 
 <h3> Skillsforall.com: </h3>
 <h3> Data Analytics Essentials: https://www.credly.com/badges/1859b313-8846-4797-ac91-09295c760774/public_url </h3>
+<h3> Data Science: https://www.credly.com/badges/941a2502-f105-4795-b73e-d846e98693a5/public_url </h3>
 
 ## Connect with me:
 <p align="left">
