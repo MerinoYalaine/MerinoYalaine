@@ -16,7 +16,7 @@
 
 <h2 align="center">Education</h2>
 
-<p align="center">University Name</p>
+<p align="center">New Era University</p>
 <p align="center">Degree: Bachelor of Science in Computer Science</p>
 <p align="center">Graduation: May 2025</p>
 
