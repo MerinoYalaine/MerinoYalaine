@@ -38,10 +38,8 @@
 <p align="center">Payment System created in Apache Netbeans using JFrame.</p>
 <h2 align="center">Skills</h2>
 <p align="center">
-  <p align="center">Programming Languages: Java, Python </p>
-  <p align="center">Web Technologies: HTML, CSS, JavaScript </p>
-  <p align="center">Database: MySQL, MongoDB, Excel, DB2 </p>
-  <p align="center">Version Control: Git, GitHub</p>
   <p align="center">Data Visualization Tools: PowerBI Desktop, Tableau Public</p>
+  <p align="center">Programming Languages: Java, Python </p>
+  <p align="center">DBMS: DB2 </p>
   <p align="center">Dev Tools: JasperSoft Studio, Lucidchart, Eclipse</p>
 </p>
