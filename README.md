@@ -11,7 +11,7 @@
 <h2 align="center">Education</h2>
 <p align="center">New Era University</p>
 <p align="center">Degree: Bachelor of Science in Computer Science</p>
-<p align="center">Graduation: May 2025</p>
+<p align="center">Graduation: June 2025</p>
 <h2 align="center">Certification</h2>
 <p align="center">[<a href="https://courses.cognitiveclass.ai/certificates/5d93d7f5dc5e42d585dbf9a0d5efc82e">SQL and Relational Databases 101</a>]</p>
 <p align="center">[<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=93BDF838814108F508054A3B00BDF9D242B595FBD5565F9CC9DDF600A4A1C560">Oracle Cloud Data Management 2022</a>]</p>
