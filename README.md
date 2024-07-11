@@ -23,7 +23,7 @@
 <h3 align="center">Best Power BI Projects</h3>
   <p align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiN2QwMDU4MTQtZWE3My00MWQ0LWFjZjEtODgwY2Q2NWM2YzkzIiwidCI6IjUxNDU1NTA0LTNhM2EtNGVlOS05MmYxLTYwZTgwODQyZTJhYiIsImMiOjEwfQ%3D%3D">Soda Report</a></p>
   <p align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiNGU5ODRhYWMtNjRkOS00ZTNjLTk0ZjAtODYwZTJhMjE0MmQzIiwidCI6IjUxNDU1NTA0LTNhM2EtNGVlOS05MmYxLTYwZTgwODQyZTJhYiIsImMiOjEwfQ%3D%3D">Snack Report</a></p>
-  <p align="center"><a href="https://github.com/MerinoYalaine/PowerBI-Project-3">Power BI Project 3</a></p>
+  <p align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiOTI5OWE4YWEtMjJmMC00NjU3LWExZjYtYmE0YzQyMGY0ODMxIiwidCI6IjUxNDU1NTA0LTNhM2EtNGVlOS05MmYxLTYwZTgwODQyZTJhYiIsImMiOjEwfQ%3D%3D">ProfElec4 Course Report</a></p>
 <h3 align="center">Best Software Engineering Design Pattern Repositories</h3>
   <p align="center"<a href="https://github.com/MerinoYalaine/SolidWithDesignPattern">Solid with Design Pattern</a></p>
   <p align="center"<a href="https://github.com/MerinoYalaine/SolidPrinciples">Solid Principles</a></p>
