@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/MerinoYalaine/MerinoYalaine/assets/142370694/c09a88ea-387f-43de-a4aa-7701b0e8960a" alt="Profile Image">
+  <img src="https://github.com/MerinoYalaine/MerinoYalaine/assets/142370694/c09a88ea-387f-43de-a4aa-7701b0e8960a">
+</p>
+<p align="center">
+  <img src="https://github.com/MerinoYalaine/MerinoYalaine/assets/142370694/a84af513-6f17-4d8c-9d32-cd1aa5d24ddd" alt="Profile Image" height="300" width="300">
 </p>
 <h1 align="center">Merino, Ma. Yalaine SJ. Merino</h1>
 <p align="center">A Bachelor of Science in Computer Science 3rd Year Student</p>
@@ -16,6 +19,23 @@
 <p align="center">[<a href="https://simpli-web.app.link/e/pqIEIvlOgDb">Business Analytics with Excel</a>]</p>
 <p align="center">[<a href="https://www.credly.com/badges/1859b313-8846-4797-ac91-09295c760774/public_url">Data Analytics Essentials</a>]</p>
 <p align="center">[<a href="https://www.credly.com/badges/941a2502-f105-4795-b73e-d846e98693a5/public_url">Data Science</a>]</p>
+<h2 align="center">Tech Achievements</h2>
+<h3 align="center">Best Power BI Projects</h3>
+  <p align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiN2QwMDU4MTQtZWE3My00MWQ0LWFjZjEtODgwY2Q2NWM2YzkzIiwidCI6IjUxNDU1NTA0LTNhM2EtNGVlOS05MmYxLTYwZTgwODQyZTJhYiIsImMiOjEwfQ%3D%3D">Soda Report</a></p>
+  <p align="center"><a href="https://app.powerbi.com/view?r=eyJrIjoiNGU5ODRhYWMtNjRkOS00ZTNjLTk0ZjAtODYwZTJhMjE0MmQzIiwidCI6IjUxNDU1NTA0LTNhM2EtNGVlOS05MmYxLTYwZTgwODQyZTJhYiIsImMiOjEwfQ%3D%3D">Snack Report</a></p>
+  <p align="center"><a href="https://github.com/MerinoYalaine/PowerBI-Project-3">Power BI Project 3</a></p>
+<h3 align="center">Best Software Engineering Design Pattern Repositories</h3>
+  <p align="center"<a href="https://github.com/MerinoYalaine/SolidWithDesignPattern">Solid with Design Pattern</a></p>
+  <p align="center"<a href="https://github.com/MerinoYalaine/SolidPrinciples">Solid Principles</a></p>
+  <p align="center"<a href="https://github.com/MerinoYalaine/FurnitureVisitorPattern">Furniture Visitor Pattern</a></p>
+  <p align="center"<a href="https://github.com/MerinoYalaine/VisitorPattern">Visitor Pattern</a></p>
+  <p align="center"<a href="https://github.com/MerinoYalaine/StatePattern">State Pattern</a></p>
+<h3 align="center">Other Accomplishments</h3>
+<p align="center">Other notable projects and achievements from various courses and certifications.</p>
+<h3 align="center">[<a href="https://github.com/MerinoYalaine/Compiler-Final-Project">Compiler-Final-Project</a>]</h3>
+<p align="center">A JFrame Compiler Application using Apache Netbeans 19. Created together with Hannah Condada and Angelica Manliguez.</p>
+<h3 align="center">[<a href="https://github.com/MerinoYalaine/PaymentSystem/tree/main">PaymentSystem</a>]</h3>
+<p align="center">Payment System created in Apache Netbeans using JFrame.</p>
 <h2 align="center">Skills</h2>
 <p align="center">
   <p align="center">Programming Languages: Java, Python </p>
@@ -25,25 +45,3 @@
   <p align="center">Data Visualization Tools: PowerBI Desktop, Tableau Public</p>
   <p align="center">Dev Tools: JasperSoft Studio, Lucidchart, Eclipse</p>
 </p>
-<h2 align="center">Tech Achievements</h2>
-<h3 align="center">Best Power BI Projects</h3>
-<ul align="center">
-  <li><a href="https://github.com/MerinoYalaine/PowerBI-Project-1">Power BI Project 1</a></li>
-  <li><a href="https://github.com/MerinoYalaine/PowerBI-Project-2">Power BI Project 2</a></li>
-  <li><a href="https://github.com/MerinoYalaine/PowerBI-Project-3">Power BI Project 3</a></li>
-</ul>
-<h3 align="center">Best Software Engineering Design Pattern Repositories</h3>
-<ul align="center">
-  <li><a href="https://github.com/MerinoYalaine/DesignPattern-Repo-1">Design Pattern Repo 1</a></li>
-  <li><a href="https://github.com/MerinoYalaine/DesignPattern-Repo-2">Design Pattern Repo 2</a></li>
-  <li><a href="https://github.com/MerinoYalaine/DesignPattern-Repo-3">Design Pattern Repo 3</a></li>
-  <li><a href="https://github.com/MerinoYalaine/DesignPattern-Repo-4">Design Pattern Repo 4</a></li>
-  <li><a href="https://github.com/MerinoYalaine/DesignPattern-Repo-5">Design Pattern Repo 5</a></li>
-</ul>
-<h3 align="center">Other Accomplishments</h3>
-<p align="center">Other notable projects and achievements from various courses and certifications.</p>
-<h2 align="center">Projects</h2>
-<h3 align="center">[<a href="https://github.com/MerinoYalaine/Compiler-Final-Project">Compiler-Final-Project</a>]</h3>
-<p align="center">A JFrame Compiler Application using Apache Netbeans 19. Created together with Hannah Condada and Angelica Manliguez.</p>
-<h3 align="center">[<a href="https://github.com/MerinoYalaine/PaymentSystem/tree/main">PaymentSystem</a>]</h3>
-<p align="center">Payment System created in Apache Netbeans using JFrame.</p>
